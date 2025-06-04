@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summer 2025 Soccer Schedule</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #a50044; /* FC Barcelona maroon */
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+            border-radius: 5px;
+        }
+        th {
+            background-color: #004d98; /* FC Barcelona blue */
+            color: #ffffff;
+        }
+        .sub-header {
+            background-color: #005cbf; /* Slightly lighter blue */
+            color: #ffffff;
+            font-weight: bold;
+        }
+        .muted-header td {
+            background-color: #336699 !important; /* Muted version of the header blue */
+            color: #ffffff;
+            font-weight: bold;
+        }
+        td {
+            background-color: #a50044; /* FC Barcelona maroon */
+            color: #ffffff;
+        }
+        .section-title {
+            font-size: 1.8em;
+            margin: 20px 0;
+            text-align: center;
+            color: #ffffff;
+            background-color: #ffcb00; /* FC Barcelona gold */
+            padding: 10px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Summer 2025 - Stronger 💪 | Quicker 🏃 | Confidence 🥇</h1>
+        
+        <div class="section-title">Training Schedule</div>
+        <table>
+            <tr>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+                <th>Sunday</th>
+            </tr>
+            <tr class="muted-header">
+                <td>Soccer - Home</td>
+                <td>Strength / Speed</td>
+                <td>Soccer - Leland</td>
+                <td>Strength / Speed</td>
+                <td>Soccer - Home</td>
+                <td>Strength / Speed</td>
+                <td>Rest</td>
+            </tr>
+            <tr>
+                <td>Wall drill with cones<br>4 reps of 45 seconds each</td>
+                <td>Jump squats</td>
+                <td>Change directions and shoot</td>
+                <td>Jump lunge</td>
+                <td>Wall drill with cones<br>4 reps of 45 seconds each</td>
+                <td>Left right jumps</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Wall drill one touch<br>Right only / Left only / Alternating</td>
+                <td>One leg figure 8 jumps</td>
+                <td>Up high touch and shoot</td>
+                <td>Quick feet</td>
+                <td>Wall drill one touch<br>Right only / Left only / Alternating</td>
+                <td>Skater jumps</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Cones<br>10 reps to and from</td>
+                <td>Explosive Push up</td>
+                <td>Sprint & shoot</td>
+                <td>Chin up</td>
+                <td>Cones<br>10 reps to and from</td>
+                <td>Pull up</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>One cone explosive move & touch shot<br>20 reps</td>
+                <td>Russian twist</td>
+                <td>1 move and shoot</td>
+                <td>Mountain climber</td>
+                <td>One cone explosive move & touch shot<br>20 reps</td>
+                <td>Reverse crunch</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Wall & turn & rebounder to first touch<br>20 reps</td>
+                <td>Weighted punches</td>
+                <td>Fake shot & shoot</td>
+                <td>Ball Slams</td>
+                <td>Wall & turn & rebounder to first touch<br>20 reps</td>
+                <td>Bench press</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>10, 20, 30, 40</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+
+        <div class="section-title">Study Schedule</div>
+        <table>
+            <tr>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+                <th>Sunday</th>
+            </tr>
+            <tr class="muted-header">
+                <td>30 mins Spanish Babel</td>
+                <td>30 mins Algebra Khan Academy</td>
+                <td>30 mins Spanish Babel</td>
+                <td>30 mins Algebra</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
